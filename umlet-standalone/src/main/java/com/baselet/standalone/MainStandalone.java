@@ -31,7 +31,7 @@ import com.baselet.diagram.CurrentDiagram;
 import com.baselet.diagram.DiagramHandler;
 import com.baselet.diagram.UpdateCheckTimerTask;
 import com.baselet.generator.ClassDiagramConverter;
-import com.baselet.standalone.gui.StandaloneGUI;
+import com.baselet.gui.MenuBuillder.StandaloneGUI;
 
 public class MainStandalone {
 

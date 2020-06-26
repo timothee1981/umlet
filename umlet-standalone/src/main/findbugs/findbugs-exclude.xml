@@ -1,7 +1,7 @@
 <FindBugsFilter>
 	<Match>
 		<!-- best way to handle Swing exit -->
-		<Class name="com.baselet.standalone.gui.StandaloneGUI" />
+		<Class name="com.baselet.gui.MenuBuillder.StandaloneGUI" />
 		<Bug pattern="DM_EXIT" />
 	</Match>
 </FindBugsFilter>
